@@ -6,6 +6,16 @@ function isPalindrome(word) {
 
 /* 
   Add your pseudocode here
+  function isPalindrome(word) {
+	const reversedWord = reverse(word)
+	 // if the input is the same as the reversed input
+	 if (word === reversedword) {
+	 	return true	
+	 }else {
+	 	return false
+	 }
+}
+
 */
 
 /*
